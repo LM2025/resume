@@ -4,3 +4,7 @@
 ### Education
  - Colorado School of Mines, 2021--present
  - Colorado Springs Christian School, 2017-2021
+### Skills
+- Python 
+- Digital Signal processing
+- Raspberry Pi Sensors 
