@@ -1,5 +1,7 @@
 # Luke Mazza
+
 <img src = "https://i.ibb.co/6JV1nxT/WIN-20220902-08-50-58-Pro.jpg" width = 40%>
+
 **email** : lmazza@mines.edu
 **Address**: Golden, CO
 ### Education
